@@ -1,2 +1,1 @@
-# Virtual-assistant-for-visually-impaired
-Internship project
+# Virtual-Assistant-for-visually-impaired
